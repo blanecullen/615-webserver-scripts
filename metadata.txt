@@ -1,0 +1,8 @@
+ip-172-31-80-196.ec2.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2020-03-11T04:56:04Z",
+  "InstanceProfileArn" : "arn:aws:iam::113773000472:instance-profile/S3-full-access",
+  "InstanceProfileId" : "AIPARU7LGG4MESNQQQB3H"
+}
+webservers-activity
