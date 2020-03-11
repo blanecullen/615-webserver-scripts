@@ -39,7 +39,7 @@ case "$ACTION" in
 		display_help
 		;;
 	-v|--version)
-		echo VERSION
+		echo $VERSION
 		;;
 	*)
 		echo "Usage: ${0} {-r|--remove|-h|--help|-v|--version}"
